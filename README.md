@@ -1,5 +1,25 @@
 <h1> E-Notes App Snapshots </h1>
 
+
+E-Notes Application developed using JSP, Servlet, JDBC and MySQL Database.
+
+## Following features
+- Add Notes
+- Edit Notes
+- List Notes
+- Delete Notes
+- Login Model
+- Registration Model
+- Responsive layout
+
+## Technology stack
+- Java 8+
+- JSP and Servlet
+- JDBC
+- MySQL database
+- Eclipse IDE
+- Tomcat server 8+
+
 1) <h3> Index Page
 ---
 
@@ -58,4 +78,7 @@
 <img src="https://user-images.githubusercontent.com/45147588/115247942-dba7fe00-a144-11eb-9a26-f5d251bd9d94.PNG">
 
 </h3>
+
+
+
 
